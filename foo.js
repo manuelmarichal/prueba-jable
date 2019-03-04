@@ -1,1 +1,3 @@
-Fichero creado en github
+function foo(a) {
+    console.log(a);
+}
