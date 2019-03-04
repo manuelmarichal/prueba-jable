@@ -3,5 +3,6 @@ function foo(a) {
 }
 
 function foo2(a) {
+    // Desde GitHub
     console.log(a+1);
 }
